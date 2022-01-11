@@ -1,0 +1,557 @@
+{
+    "name": "Velox Modpack",
+    "version": "1",
+    "server_ip": null,
+    "minecraft_version": "1.12.2",
+    "forge_version": "14.23.5.2860",
+    "mods": [
+        {
+            "path": "\\mods\\industrialcraft-2-2.8.170-ex112.jar",
+            "url": "https://media.forgecdn.net/files/2746/892/industrialcraft-2-2.8.170-ex112.jar"
+        },
+        {
+            "path": "\\mods\\jei_1.12.2-4.16.1.301.jar",
+            "url": "https://media.forgecdn.net/files/3040/523/jei_1.12.2-4.16.1.301.jar"
+        },
+        {
+            "path": "\\mods\\ironchest-1.12.2-7.0.72.847.jar",
+            "url": "https://media.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar"
+        },
+        {
+            "path": "\\mods\\Waystones_1.12.2-4.1.0.jar",
+            "url": "https://media.forgecdn.net/files/2859/589/Waystones_1.12.2-4.1.0.jar"
+        },
+        {
+            "path": "\\mods\\StorageDrawers-1.12.2-5.4.2.jar",
+            "url": "https://media.forgecdn.net/files/2952/606/StorageDrawers-1.12.2-5.4.2.jar"
+        },
+        {
+            "path": "\\mods\\Chameleon-1.12-4.1.3.jar",
+            "url": "https://media.forgecdn.net/files/2450/900/Chameleon-1.12-4.1.3.jar"
+        },
+        {
+            "path": "\\mods\\JustEnoughResources-1.12.2-0.9.2.60.jar",
+            "url": "https://media.forgecdn.net/files/2728/585/JustEnoughResources-1.12.2-0.9.2.60.jar"
+        },
+        {
+            "path": "\\mods\\TConstruct-1.12.2-2.13.0.183.jar",
+            "url": "https://media.forgecdn.net/files/2902/483/TConstruct-1.12.2-2.13.0.183.jar"
+        },
+        {
+            "path": "\\mods\\BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
+            "url": "https://media.forgecdn.net/files/3558/882/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar"
+        },
+        {
+            "path": "\\mods\\Chisel-MC1.12.2-1.0.2.45.jar",
+            "url": "https://media.forgecdn.net/files/2915/375/Chisel-MC1.12.2-1.0.2.45.jar"
+        },
+        {
+            "path": "\\mods\\CTM-MC1.12.2-1.0.2.31.jar",
+            "url": "https://media.forgecdn.net/files/2915/363/CTM-MC1.12.2-1.0.2.31.jar"
+        },
+        {
+            "path": "\\mods\\CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+            "url": "https://media.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
+        },
+        {
+            "path": "\\mods\\CoFHCore-1.12.2-4.6.6.1-universal.jar",
+            "url": "https://media.forgecdn.net/files/2920/433/CoFHCore-1.12.2-4.6.6.1-universal.jar"
+        },
+        {
+            "path": "\\mods\\twilightforest-1.12.2-3.11.1021-universal.jar",
+            "url": "https://media.forgecdn.net/files/3051/450/twilightforest-1.12.2-3.11.1021-universal.jar"
+        },
+        {
+            "path": "\\mods\\ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+            "url": "https://media.forgecdn.net/files/2926/428/ThermalFoundation-1.12.2-2.6.7.1-universal.jar"
+        },
+        {
+            "path": "\\mods\\appliedenergistics2-rv6-stable-7.jar",
+            "url": "https://media.forgecdn.net/files/2747/63/appliedenergistics2-rv6-stable-7.jar"
+        },
+        {
+            "path": "\\mods\\furniture-6.3.1-1.12.2.jar",
+            "url": "https://media.forgecdn.net/files/2749/993/furniture-6.3.1-1.12.2.jar"
+        },
+        {
+            "path": "\\mods\\ImmersiveEngineering-0.12-98.jar",
+            "url": "https://media.forgecdn.net/files/2974/106/ImmersiveEngineering-0.12-98.jar"
+        },
+        {
+            "path": "\\mods\\Xaeros_Minimap_21.22.6_Forge_1.12.jar",
+            "url": "https://media.forgecdn.net/files/3574/56/Xaeros_Minimap_21.22.6_Forge_1.12.jar"
+        },
+        {
+            "path": "\\mods\\Mekanism-1.12.2-9.8.3.390.jar",
+            "url": "https://media.forgecdn.net/files/2835/175/Mekanism-1.12.2-9.8.3.390.jar"
+        },
+        {
+            "path": "\\mods\\ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+            "url": "https://media.forgecdn.net/files/2926/431/ThermalExpansion-1.12.2-5.5.7.1-universal.jar"
+        },
+        {
+            "path": "\\mods\\EnderStorage-1.12.2-2.4.6.137-universal.jar",
+            "url": "https://media.forgecdn.net/files/2755/787/EnderStorage-1.12.2-2.4.6.137-universal.jar"
+        },
+        {
+            "path": "\\mods\\MekanismGenerators-1.12.2-9.8.3.390.jar",
+            "url": "https://media.forgecdn.net/files/2835/177/MekanismGenerators-1.12.2-9.8.3.390.jar"
+        },
+        {
+            "path": "\\mods\\ThermalInnovation-1.12.2-0.3.6.1-universal.jar",
+            "url": "https://media.forgecdn.net/files/2920/441/ThermalInnovation-1.12.2-0.3.6.1-universal.jar"
+        },
+        {
+            "path": "\\mods\\BiblioCraft%5bv2.4.5%5d%5bMC1.12.2%5d.jar",
+            "url": "https://media.forgecdn.net/files/2574/880/BiblioCraft%5bv2.4.5%5d%5bMC1.12.2%5d.jar"
+        },
+        {
+            "path": "\\mods\\Pam%27s+HarvestCraft+1.12.2zg.jar",
+            "url": "https://media.forgecdn.net/files/2904/825/Pam%27s+HarvestCraft+1.12.2zg.jar"
+        },
+        {
+            "path": "\\mods\\ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+            "url": "https://media.forgecdn.net/files/2920/505/ThermalDynamics-1.12.2-2.5.6.1-universal.jar"
+        },
+        {
+            "path": "\\mods\\CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+            "url": "https://media.forgecdn.net/files/2920/434/CoFHWorld-1.12.2-1.4.0.1-universal.jar"
+        },
+        {
+            "path": "\\mods\\ProjectE-1.12.2-PE1.4.1.jar",
+            "url": "https://media.forgecdn.net/files/2702/991/ProjectE-1.12.2-PE1.4.1.jar"
+        },
+        {
+            "path": "\\mods\\ProjectRed-1.12.2-4.9.4.120-Base.jar",
+            "url": "https://media.forgecdn.net/files/2745/545/ProjectRed-1.12.2-4.9.4.120-Base.jar"
+        },
+        {
+            "path": "\\mods\\ProjectRed-1.12.2-4.9.4.120-integration.jar",
+            "url": "https://media.forgecdn.net/files/2745/548/ProjectRed-1.12.2-4.9.4.120-integration.jar"
+        },
+        {
+            "path": "\\mods\\ChickenChunks-1.12.2-2.4.2.74-universal.jar",
+            "url": "https://media.forgecdn.net/files/2755/785/ChickenChunks-1.12.2-2.4.2.74-universal.jar"
+        },
+        {
+            "path": "\\mods\\ImmersiveRailroading-1.12.2-forge-1.9.1.jar",
+            "url": "https://media.forgecdn.net/files/3437/738/ImmersiveRailroading-1.12.2-forge-1.9.1.jar"
+        },
+        {
+            "path": "\\mods\\RedstoneFlux-1.12-2.1.1.1-universal.jar",
+            "url": "https://media.forgecdn.net/files/2920/436/RedstoneFlux-1.12-2.1.1.1-universal.jar"
+        },
+        {
+            "path": "\\mods\\TrackAPI-1.2.jar",
+            "url": "https://media.forgecdn.net/files/2825/260/TrackAPI-1.2.jar"
+        },
+        {
+            "path": "\\mods\\UniversalModCore-1.12.2-forge-1.1.3.jar",
+            "url": "https://media.forgecdn.net/files/3427/250/UniversalModCore-1.12.2-forge-1.1.3.jar"
+        },
+        {
+            "path": "\\mods\\ForgeMultipart-1.12.2-2.6.2.83-universal.jar",
+            "url": "https://media.forgecdn.net/files/2755/790/ForgeMultipart-1.12.2-2.6.2.83-universal.jar"
+        },
+        {
+            "path": "\\mods\\MrTJPCore-1.12.2-2.1.4.43-universal.jar",
+            "url": "https://media.forgecdn.net/files/2735/197/MrTJPCore-1.12.2-2.1.4.43-universal.jar"
+        },
+        {
+            "path": "\\mods\\Mantle-1.12-1.3.3.55.jar",
+            "url": "https://media.forgecdn.net/files/2713/386/Mantle-1.12-1.3.3.55.jar"
+        },
+        {
+            "path": "\\mods\\AppleSkin-mc1.12-1.0.14.jar.disabled",
+            "url": "https://media.forgecdn.net/files/2987/247/AppleSkin-mc1.12-1.0.14.jar"
+        },
+        {
+            "path": "\\mods\\NaturesCompass-1.12.2-1.8.5.jar",
+            "url": "https://media.forgecdn.net/files/2893/527/NaturesCompass-1.12.2-1.8.5.jar"
+        },
+        {
+            "path": "\\mods\\ElevatorMod-1.12.2-1.3.14.jar",
+            "url": "https://media.forgecdn.net/files/2845/365/ElevatorMod-1.12.2-1.3.14.jar"
+        },
+        {
+            "path": "\\mods\\chiselsandbits-14.33.jar",
+            "url": "https://media.forgecdn.net/files/2720/655/chiselsandbits-14.33.jar"
+        },
+        {
+            "path": "\\mods\\Aquaculture-1.12.2-1.6.8.jar",
+            "url": "https://media.forgecdn.net/files/2659/258/Aquaculture-1.12.2-1.6.8.jar"
+        },
+        {
+            "path": "\\mods\\Botania+r1.10-364.4.jar",
+            "url": "https://media.forgecdn.net/files/3330/934/Botania+r1.10-364.4.jar"
+        },
+        {
+            "path": "\\mods\\comforts-1.12.2-1.4.1.3.jar",
+            "url": "https://media.forgecdn.net/files/2880/613/comforts-1.12.2-1.4.1.3.jar"
+        },
+        {
+            "path": "\\mods\\ThermalCultivation-1.12.2-0.3.6.1-universal.jar",
+            "url": "https://media.forgecdn.net/files/2920/437/ThermalCultivation-1.12.2-0.3.6.1-universal.jar"
+        },
+        {
+            "path": "\\mods\\DynamicSurroundings-1.12.2-3.6.3.jar",
+            "url": "https://media.forgecdn.net/files/3497/269/DynamicSurroundings-1.12.2-3.6.3.jar"
+        },
+        {
+            "path": "\\mods\\bettercaves-1.12.2-2.0.4.jar",
+            "url": "https://media.forgecdn.net/files/3003/242/bettercaves-1.12.2-2.0.4.jar"
+        },
+        {
+            "path": "\\mods\\BetterMineshaftsForge-1.12.2-2.2.1.jar",
+            "url": "https://media.forgecdn.net/files/3247/154/BetterMineshaftsForge-1.12.2-2.2.1.jar"
+        },
+        {
+            "path": "\\mods\\mcw-bridges-1.0.6b-mc1.12.2.jar",
+            "url": "https://media.forgecdn.net/files/3383/460/mcw-bridges-1.0.6b-mc1.12.2.jar"
+        },
+        {
+            "path": "\\mods\\mcw-doors-1.0.3-mc1.12.2.jar",
+            "url": "https://media.forgecdn.net/files/3340/797/mcw-doors-1.0.3-mc1.12.2.jar"
+        },
+        {
+            "path": "\\mods\\mcw-windows-1.0.0-mc1.12.2.jar",
+            "url": "https://media.forgecdn.net/files/2884/962/mcw-windows-1.0.0-mc1.12.2.jar"
+        },
+        {
+            "path": "\\mods\\mcw-fences-1.0.0-mc1.12.2.jar",
+            "url": "https://media.forgecdn.net/files/3231/561/mcw-fences-1.0.0-mc1.12.2.jar"
+        },
+        {
+            "path": "\\mods\\mcw-trapdoors-1.0.3-mc1.12.2.jar",
+            "url": "https://media.forgecdn.net/files/3488/758/mcw-trapdoors-1.0.3-mc1.12.2.jar"
+        },
+        {
+            "path": "\\mods\\mcw-roofs-1.0.2-mc1.12.2.jar",
+            "url": "https://media.forgecdn.net/files/2879/573/mcw-roofs-1.0.2-mc1.12.2.jar"
+        },
+        {
+            "path": "\\mods\\SereneSeasons-1.12.2-1.2.18-universal.jar",
+            "url": "https://media.forgecdn.net/files/2799/213/SereneSeasons-1.12.2-1.2.18-universal.jar"
+        },
+        {
+            "path": "\\mods\\gravestone-1.10.3.jar",
+            "url": "https://media.forgecdn.net/files/2744/766/gravestone-1.10.3.jar"
+        },
+        {
+            "path": "\\mods\\SpartanShields-1.12.2-1.5.5.jar",
+            "url": "https://media.forgecdn.net/files/3567/495/SpartanShields-1.12.2-1.5.5.jar"
+        },
+        {
+            "path": "\\mods\\Advanced+Solar+Panels-4.3.0.jar",
+            "url": "https://media.forgecdn.net/files/2652/182/Advanced+Solar+Panels-4.3.0.jar"
+        },
+        {
+            "path": "\\mods\\aether-1.12.2-v1.5.3.2.jar",
+            "url": "https://media.forgecdn.net/files/3280/119/aether-1.12.2-v1.5.3.2.jar"
+        },
+        {
+            "path": "\\mods\\BetterBuildersWands-1.12.2-0.13.2.271%2B5997513.jar",
+            "url": "https://media.forgecdn.net/files/2691/84/BetterBuildersWands-1.12.2-0.13.2.271%2B5997513.jar"
+        },
+        {
+            "path": "\\mods\\ExtremeReactors-1.12.2-0.4.5.68.jar",
+            "url": "https://media.forgecdn.net/files/3194/746/ExtremeReactors-1.12.2-0.4.5.68.jar"
+        },
+        {
+            "path": "\\mods\\blockcraftery-1.12.2-1.3.1.jar",
+            "url": "https://media.forgecdn.net/files/2716/712/blockcraftery-1.12.2-1.3.1.jar"
+        },
+        {
+            "path": "\\mods\\BloodMagic-1.12.2-2.4.3-105.jar",
+            "url": "https://media.forgecdn.net/files/2822/288/BloodMagic-1.12.2-2.4.3-105.jar"
+        },
+        {
+            "path": "\\mods\\EnderCore-1.12.2-0.5.76.jar",
+            "url": "https://media.forgecdn.net/files/2972/849/EnderCore-1.12.2-0.5.76.jar"
+        },
+        {
+            "path": "\\mods\\EnderIO-1.12.2-5.3.70.jar",
+            "url": "https://media.forgecdn.net/files/3328/811/EnderIO-1.12.2-5.3.70.jar"
+        },
+        {
+            "path": "\\mods\\ExtraCells-1.12.2-2.6.5.jar",
+            "url": "https://media.forgecdn.net/files/2855/967/ExtraCells-1.12.2-2.6.5.jar"
+        },
+        {
+            "path": "\\mods\\extrautils2-1.12-1.9.9.jar",
+            "url": "https://media.forgecdn.net/files/2678/374/extrautils2-1.12-1.9.9.jar"
+        },
+        {
+            "path": "\\mods\\MicdoodleCore-1.12.2-4.0.2.280.jar",
+            "url": "https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar"
+        },
+        {
+            "path": "\\mods\\Galacticraft-Planets-1.12.2-4.0.2.280.jar",
+            "url": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar"
+        },
+        {
+            "path": "\\mods\\GalacticraftCore-1.12.2-4.0.2.280.jar",
+            "url": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar"
+        },
+        {
+            "path": "\\mods\\Gravitation+Suite-3.1.1.jar",
+            "url": "https://media.forgecdn.net/files/2700/845/Gravitation+Suite-3.1.1.jar"
+        },
+        {
+            "path": "\\mods\\industrialforegoing-1.12.2-1.12.13-237.jar",
+            "url": "https://media.forgecdn.net/files/2745/321/industrialforegoing-1.12.2-1.12.13-237.jar"
+        },
+        {
+            "path": "\\mods\\mystcraft-1.12.2-0.13.7.06.jar.disabled",
+            "url": "https://media.forgecdn.net/files/2958/490/mystcraft-1.12.2-0.13.7.06.jar"
+        },
+        {
+            "path": "\\mods\\OpenBlocks-1.12.2-1.8.1.jar",
+            "url": "https://media.forgecdn.net/files/2699/56/OpenBlocks-1.12.2-1.8.1.jar"
+        },
+        {
+            "path": "\\mods\\OpenComputers-MC1.12.2-1.7.5.192.jar",
+            "url": "https://media.forgecdn.net/files/2828/357/OpenComputers-MC1.12.2-1.7.5.192.jar"
+        },
+        {
+            "path": "\\mods\\cc-tweaked-1.12.2-1.89.2.jar",
+            "url": "https://media.forgecdn.net/files/2992/872/cc-tweaked-1.12.2-1.89.2.jar"
+        },
+        {
+            "path": "\\mods\\ProjectRed-1.12.2-4.9.4.120-compat.jar",
+            "url": "https://media.forgecdn.net/files/2745/546/ProjectRed-1.12.2-4.9.4.120-compat.jar"
+        },
+        {
+            "path": "\\mods\\ProjectRed-1.12.2-4.9.4.120-fabrication.jar",
+            "url": "https://media.forgecdn.net/files/2745/547/ProjectRed-1.12.2-4.9.4.120-fabrication.jar"
+        },
+        {
+            "path": "\\mods\\ProjectRed-1.12.2-4.9.4.120-mechanical.jar",
+            "url": "https://media.forgecdn.net/files/2745/550/ProjectRed-1.12.2-4.9.4.120-mechanical.jar"
+        },
+        {
+            "path": "\\mods\\ProjectRed-1.12.2-4.9.4.120-Base.jar",
+            "url": "https://media.forgecdn.net/files/2745/545/ProjectRed-1.12.2-4.9.4.120-Base.jar"
+        },
+        {
+            "path": "\\mods\\ProjectRed-1.12.2-4.9.4.120-integration.jar",
+            "url": "https://media.forgecdn.net/files/2745/548/ProjectRed-1.12.2-4.9.4.120-integration.jar"
+        },
+        {
+            "path": "\\mods\\ProjectRed-1.12.2-4.9.4.120-lighting.jar",
+            "url": "https://media.forgecdn.net/files/2745/549/ProjectRed-1.12.2-4.9.4.120-lighting.jar"
+        },
+        {
+            "path": "\\mods\\ProjectRed-1.12.2-4.9.4.120-world.jar",
+            "url": "https://media.forgecdn.net/files/2745/551/ProjectRed-1.12.2-4.9.4.120-world.jar"
+        },
+        {
+            "path": "\\mods\\Snad-1.12.1-1.7.09.16a.jar",
+            "url": "https://media.forgecdn.net/files/2480/458/Snad-1.12.1-1.7.09.16a.jar"
+        },
+        {
+            "path": "\\mods\\railcraft-12.0.0.jar",
+            "url": "https://media.forgecdn.net/files/2687/757/railcraft-12.0.0.jar"
+        },
+        {
+            "path": "\\mods\\signpost-1.12.2-1.08.5.jar",
+            "url": "https://media.forgecdn.net/files/2931/653/signpost-1.12.2-1.08.5.jar"
+        },
+        {
+            "path": "\\mods\\WR-CBE-1.12.2-2.3.2.33-universal.jar",
+            "url": "https://media.forgecdn.net/files/2755/798/WR-CBE-1.12.2-2.3.2.33-universal.jar"
+        },
+        {
+            "path": "\\mods\\Voice+Chat+Reloaded-1.2.5.jar",
+            "url": "https://media.forgecdn.net/files/3222/659/Voice+Chat+Reloaded-1.2.5.jar"
+        },
+        {
+            "path": "\\mods\\Baubles-1.12-1.5.2.jar",
+            "url": "https://media.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar"
+        },
+        {
+            "path": "\\mods\\OreLib-1.12.2-3.6.0.1.jar",
+            "url": "https://media.forgecdn.net/files/2820/815/OreLib-1.12.2-3.6.0.1.jar"
+        },
+        {
+            "path": "\\mods\\mysticallib-1.12.2-1.13.0.jar",
+            "url": "https://media.forgecdn.net/files/3483/816/mysticallib-1.12.2-1.13.0.jar"
+        },
+        {
+            "path": "\\mods\\Guide-API-1.12-2.1.8-63.jar",
+            "url": "https://media.forgecdn.net/files/2645/992/Guide-API-1.12-2.1.8-63.jar"
+        },
+        {
+            "path": "\\mods\\zerocore-1.12.2-0.1.2.9.jar",
+            "url": "https://media.forgecdn.net/files/3194/743/zerocore-1.12.2-0.1.2.9.jar"
+        },
+        {
+            "path": "\\mods\\tesla-core-lib-1.12.2-1.0.18.jar",
+            "url": "https://media.forgecdn.net/files/3438/487/tesla-core-lib-1.12.2-1.0.18.jar"
+        },
+        {
+            "path": "\\mods\\OpenModsLib-1.12.2-0.12.2.jar",
+            "url": "https://media.forgecdn.net/files/2699/55/OpenModsLib-1.12.2-0.12.2.jar"
+        },
+        {
+            "path": "\\mods\\Forgelin-1.8.4.jar",
+            "url": "https://media.forgecdn.net/files/2785/465/Forgelin-1.8.4.jar"
+        },
+        {
+            "path": "\\mods\\antiqueatlas-1.12.2-4.6.3.jar",
+            "url": "https://media.forgecdn.net/files/2823/30/antiqueatlas-1.12.2-4.6.3.jar"
+        },
+        {
+            "path": "\\mods\\betteranimalsplus-1.12.2-9.0.1.jar",
+            "url": "https://media.forgecdn.net/files/2933/382/betteranimalsplus-1.12.2-9.0.1.jar"
+        },
+        {
+            "path": "\\mods\\Chocolate_Quest_Repoured-1.12.2-2.6.2B.jar",
+            "url": "https://media.forgecdn.net/files/3541/819/Chocolate_Quest_Repoured-1.12.2-2.6.2B.jar"
+        },
+        {
+            "path": "\\mods\\ClaySoldiersMod-1.12.2-3.0.0-beta.2.jar",
+            "url": "https://media.forgecdn.net/files/2653/725/ClaySoldiersMod-1.12.2-3.0.0-beta.2.jar"
+        },
+        {
+            "path": "\\mods\\CTM-MC1.12.2-1.0.2.31.jar",
+            "url": "https://media.forgecdn.net/files/2915/363/CTM-MC1.12.2-1.0.2.31.jar"
+        },
+        {
+            "path": "\\mods\\CustomNPCs_1.12.2-(05Jul20).jar",
+            "url": "https://media.forgecdn.net/files/2996/912/CustomNPCs_1.12.2-(05Jul20).jar"
+        },
+        {
+            "path": "\\mods\\davincisvessels-1.12-6.340-full.jar",
+            "url": "https://media.forgecdn.net/files/2499/846/davincisvessels-1.12-6.340-full.jar"
+        },
+        {
+            "path": "\\mods\\ElectroblobsWizardry-4.3.4-MC1.12.2.jar",
+            "url": "https://media.forgecdn.net/files/3189/62/ElectroblobsWizardry-4.3.4-MC1.12.2.jar"
+        },
+        {
+            "path": "\\mods\\extraalchemy-forge-1.12-build11-0.5.4.jar",
+            "url": "https://media.forgecdn.net/files/2937/550/extraalchemy-forge-1.12-build11-0.5.4.jar"
+        },
+        {
+            "path": "\\mods\\ProportionalDestructionParticles-1.12.2-1.2.4.jar",
+            "url": "https://media.forgecdn.net/files/2632/834/ProportionalDestructionParticles-1.12.2-1.2.4.jar"
+        },
+        {
+            "path": "\\mods\\forestry_1.12.2-5.8.2.387.jar",
+            "url": "https://media.forgecdn.net/files/2684/780/forestry_1.12.2-5.8.2.387.jar"
+        },
+        {
+            "path": "\\mods\\ImprovedBackpacks-1.12.2-1.5.0.0.jar",
+            "url": "https://media.forgecdn.net/files/2918/455/ImprovedBackpacks-1.12.2-1.5.0.0.jar"
+        },
+        {
+            "path": "\\mods\\InventoryTweaks-1.63.jar",
+            "url": "https://media.forgecdn.net/files/2482/481/InventoryTweaks-1.63.jar"
+        },
+        {
+            "path": "\\mods\\KleeSlabs_1.12.2-5.4.12.jar",
+            "url": "https://media.forgecdn.net/files/2733/525/KleeSlabs_1.12.2-5.4.12.jar"
+        },
+        {
+            "path": "\\mods\\living_enchantment-3.2.3.jar",
+            "url": "https://media.forgecdn.net/files/2994/515/living_enchantment-3.2.3.jar"
+        },
+        {
+            "path": "\\mods\\NetherEx-1.12.2-2.2.5.jar",
+            "url": "https://media.forgecdn.net/files/3374/256/NetherEx-1.12.2-2.2.5.jar"
+        },
+        {
+            "path": "\\mods\\PortalGun-1.12.2-7.1.0.jar",
+            "url": "https://media.forgecdn.net/files/2684/33/PortalGun-1.12.2-7.1.0.jar"
+        },
+        {
+            "path": "\\mods\\vehicle-mod-0.44.1-1.12.2.jar",
+            "url": "https://media.forgecdn.net/files/2967/287/vehicle-mod-0.44.1-1.12.2.jar"
+        },
+        {
+            "path": "\\mods\\PotionCore-1.9_for_1.12.2.jar",
+            "url": "https://media.forgecdn.net/files/2905/184/PotionCore-1.9_for_1.12.2.jar"
+        },
+        {
+            "path": "\\mods\\RoguelikeDungeons-1.12.2-1.8.0.jar",
+            "url": "https://media.forgecdn.net/files/2492/586/RoguelikeDungeons-1.12.2-1.8.0.jar"
+        },
+        {
+            "path": "\\mods\\SoundFilters-0.12.1_for_1.12.jar",
+            "url": "https://media.forgecdn.net/files/3025/806/SoundFilters-0.12.1_for_1.12.jar"
+        },
+        {
+            "path": "\\mods\\techguns-1.12.2-2.0.2.0_pre3.2.jar",
+            "url": "https://media.forgecdn.net/files/2958/103/techguns-1.12.2-2.0.2.0_pre3.2.jar"
+        },
+        {
+            "path": "\\mods\\tektopia-1.1.0.jar",
+            "url": "https://media.forgecdn.net/files/2763/46/tektopia-1.1.0.jar"
+        },
+        {
+            "path": "\\mods\\Toast+Control-1.12.2-1.8.1.jar",
+            "url": "https://media.forgecdn.net/files/2707/353/Toast+Control-1.12.2-1.8.1.jar"
+        },
+        {
+            "path": "\\mods\\VanillaFix-1.0.10-150.jar",
+            "url": "https://media.forgecdn.net/files/2915/154/VanillaFix-1.0.10-150.jar"
+        },
+        {
+            "path": "\\mods\\geckolib-forge-1.12.2-3.0.13.jar",
+            "url": "https://media.forgecdn.net/files/3576/172/geckolib-forge-1.12.2-3.0.13.jar"
+        },
+        {
+            "path": "\\mods\\SanLib-1.12.2-1.6.3.jar",
+            "url": "https://media.forgecdn.net/files/3312/635/SanLib-1.12.2-1.6.3.jar"
+        },
+        {
+            "path": "\\mods\\movingworld-1.12-6.353-full.jar",
+            "url": "https://media.forgecdn.net/files/3007/966/movingworld-1.12-6.353-full.jar"
+        },
+        {
+            "path": "\\mods\\minerva-library-1.0.13.jar",
+            "url": "https://media.forgecdn.net/files/2728/693/minerva-library-1.0.13.jar"
+        },
+        {
+            "path": "\\mods\\LibraryEx-1.12.2-1.2.2.jar",
+            "url": "https://media.forgecdn.net/files/3374/254/LibraryEx-1.12.2-1.2.2.jar"
+        },
+        {
+            "path": "\\mods\\iChunUtil-1.12.2-7.2.2.jar",
+            "url": "https://media.forgecdn.net/files/2801/262/iChunUtil-1.12.2-7.2.2.jar"
+        },
+        {
+            "path": "\\mods\\Placebo-1.12.2-1.6.0.jar",
+            "url": "https://media.forgecdn.net/files/2694/382/Placebo-1.12.2-1.6.0.jar"
+        },
+        {
+            "path": "\\mods\\obfuscate-0.4.2-1.12.2.jar",
+            "url": "https://media.forgecdn.net/files/2916/310/obfuscate-0.4.2-1.12.2.jar"
+        },
+        {
+            "path": "\\mods\\NotEnoughIDs-1.5.4.4.jar",
+            "url": "https://media.forgecdn.net/files/2695/44/NotEnoughIDs-1.5.4.4.jar"
+        },
+        {
+            "path": "\\mods\\BetterFps-1.4.8.jar",
+            "url": "https://media.forgecdn.net/files/2483/393/BetterFps-1.4.8.jar"
+        },
+        {
+            "path": "\\mods\\minecolonies-1.12.2-0.11.811-BETA-universal.jar",
+            "url": "https://media.forgecdn.net/files/2921/659/minecolonies-1.12.2-0.11.811-BETA-universal.jar"
+        },
+        {
+            "path": "\\mods\\Quark-r1.6-179.jar",
+            "url": "https://media.forgecdn.net/files/2924/91/Quark-r1.6-179.jar"
+        },
+        {
+            "path": "\\mods\\thedalekmod-64.1.0.jar",
+            "url": "https://media.forgecdn.net/files/3505/229/thedalekmod-64.1.0.jar"
+        },
+        {
+            "path": "\\mods\\AutoRegLib-1.3-32.jar",
+            "url": "https://media.forgecdn.net/files/2746/11/AutoRegLib-1.3-32.jar"
+        }
+    ]
+}
