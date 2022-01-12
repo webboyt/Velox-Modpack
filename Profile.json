@@ -1,6 +1,6 @@
 {
     "name": "Velox Modpack",
-    "version": "1",
+    "version": "16",
     "server_ip": null,
     "minecraft_version": "1.12.2",
     "forge_version": "14.23.5.2860",
@@ -410,10 +410,6 @@
             "url": "https://media.forgecdn.net/files/3541/819/Chocolate_Quest_Repoured-1.12.2-2.6.2B.jar"
         },
         {
-            "path": "\\mods\\ClaySoldiersMod-1.12.2-3.0.0-beta.2.jar",
-            "url": "https://media.forgecdn.net/files/2653/725/ClaySoldiersMod-1.12.2-3.0.0-beta.2.jar"
-        },
-        {
             "path": "\\mods\\CTM-MC1.12.2-1.0.2.31.jar",
             "url": "https://media.forgecdn.net/files/2915/363/CTM-MC1.12.2-1.0.2.31.jar"
         },
@@ -476,10 +472,6 @@
         {
             "path": "\\mods\\RoguelikeDungeons-1.12.2-1.8.0.jar",
             "url": "https://media.forgecdn.net/files/2492/586/RoguelikeDungeons-1.12.2-1.8.0.jar"
-        },
-        {
-            "path": "\\mods\\SoundFilters-0.12.1_for_1.12.jar",
-            "url": "https://media.forgecdn.net/files/3025/806/SoundFilters-0.12.1_for_1.12.jar"
         },
         {
             "path": "\\mods\\techguns-1.12.2-2.0.2.0_pre3.2.jar",
