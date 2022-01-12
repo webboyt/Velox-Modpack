@@ -1,0 +1,10 @@
+[
+    {
+        "path": "\\config\\Dalek Mod Config.cfg",
+        "url": "${repo_url}\\config\\Dalek Mod Config.cfg"
+    },
+    {
+        "path": "\\mods\\OptiFine_1.12.2_HD_U_G5.jar",
+        "url": "${repo_url}\\mods\\OptiFine_1.12.2_HD_U_G5.jar"
+    }
+]
