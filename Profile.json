@@ -552,6 +552,14 @@
         {
             "path": "\\mods\\MFFS-1.12.2-4.0.1.0_1.12_cc3a5aa.jar",
             "url": "https://media.forgecdn.net/files/2581/227/MFFS-1.12.2-4.0.1.0_1.12_cc3a5aa.jar"
+        },
+        {
+            "path": "\\mods\\Numina-1.12.2-1.0.38.jar",
+            "url": "https://media.forgecdn.net/files/2715/198/Numina-1.12.2-1.0.38.jar"
+        },
+        {
+            "path": "\\mods\\ModularPowersuits-1.12.2-1.0.46.jar",
+            "url": "https://media.forgecdn.net/files/2743/885/ModularPowersuits-1.12.2-1.0.46.jar"
         }
     ]
 }
