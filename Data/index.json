@@ -652,10 +652,6 @@
 		"url": "https://cdn.discordapp.com/attachments/416318597875367956/710600373357772860/SlateWagon.zip"
 	},
 	{
-		"path": "\\config\\immersiverailroading\\talyllyn.rar",
-		"url": "http://download856.mediafire.com/e219ahvq71wg/59c7d46ytnet4vl/talyllyn.rar"
-	},
-	{
 		"path": "\\config\\jei\\itemBlacklist.cfg",
 		"url": "${repo_url}\\config\\jei\\itemBlacklist.cfg"
 	},
