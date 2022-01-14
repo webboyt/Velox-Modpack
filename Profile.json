@@ -1,6 +1,6 @@
 {
     "name": "Velox Modpack",
-    "version": "16",
+    "version": "17",
     "server_ip": null,
     "minecraft_version": "1.12.2",
     "forge_version": "14.23.5.2860",
@@ -544,6 +544,14 @@
         {
             "path": "\\mods\\AutoRegLib-1.3-32.jar",
             "url": "https://media.forgecdn.net/files/2746/11/AutoRegLib-1.3-32.jar"
+        },
+        {
+            "path": "\\mods\\FutureVersions+v1.3.1.jar",
+            "url": "https://media.forgecdn.net/files/3091/17/FutureVersions+v1.3.1.jar"
+        },
+        {
+            "path": "\\mods\\MFFS-1.12.2-4.0.1.0_1.12_cc3a5aa.jar",
+            "url": "https://media.forgecdn.net/files/2581/227/MFFS-1.12.2-4.0.1.0_1.12_cc3a5aa.jar"
         }
     ]
 }
