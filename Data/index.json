@@ -200,6 +200,42 @@
 		"url": "${repo_url}\\config\\immersiverailroading_sound.cfg"
 	},
 	{
+		"path": "\\config\\immersiverailroading\\BowmakerFoxsPeckettW4.zip",
+		"url": "https://media.forgecdn.net/files/3537/84/BowmakerFoxsPeckettW4.zip"
+	},
+	{
+		"path": "\\config\\immersiverailroading\\Brums_Dutch_pack.zip",
+		"url": "https://media.forgecdn.net/files/3579/460/Brums_Dutch_pack.zip"
+	},
+	{
+		"path": "\\config\\immersiverailroading\\Cole's+Rebuilt+Royal+Scot.zip",
+		"url": "https://media.forgecdn.net/files/3576/503/Cole%27s+Rebuilt+Royal+Scot.zip"
+	},
+	{
+		"path": "\\config\\immersiverailroading\\Dragons_British_Freight.zip",
+		"url": "https://media.forgecdn.net/files/3579/37/Dragons_British_Freight.zip"
+	},
+	{
+		"path": "\\config\\immersiverailroading\\GER+Extravaganza+Beta.zip",
+		"url": "https://media.forgecdn.net/files/3583/225/GER+Extravaganza+Beta.zip"
+	},
+	{
+		"path": "\\config\\immersiverailroading\\International+Narrow+Gauge+2ft+Pack.zip",
+		"url": "https://media.forgecdn.net/files/2705/391/International+Narrow+Gauge+2ft+Pack.zip"
+	},
+	{
+		"path": "\\config\\immersiverailroading\\Kit-Bash!+3.0+(KIT-MAS+YEAR+1+RELEASE).zip",
+		"url": "https://media.forgecdn.net/files/3579/623/Kit-Bash!+3.0+(KIT-MAS+YEAR+1+RELEASE).zip"
+	},
+	{
+		"path": "\\config\\immersiverailroading\\material_transport.zip",
+		"url": "https://cdn.discordapp.com/attachments/416318597875367956/564095218404818945/material_transport.zip"
+	},
+	{
+		"path": "\\config\\immersiverailroading\\SlateWagon.zip",
+		"url": "https://cdn.discordapp.com/attachments/416318597875367956/710600373357772860/SlateWagon.zip"
+	},
+	{
 		"path": "\\config\\improvedbackpacks.cfg",
 		"url": "${repo_url}\\config\\improvedbackpacks.cfg"
 	},
@@ -390,6 +426,10 @@
 	{
 		"path": "\\mods\\OptiFine_1.12.2_HD_U_G5.jar",
 		"url": "${repo_url}\\mods\\OptiFine_1.12.2_HD_U_G5.jar"
+	},
+	{
+		"path": "\\resourcepacks\\Simpson's_Pack_Modded_1.12_v1.0.0.zip",
+		"url": "${repo_url}\\resourcepacks\\Simpson's_Pack_Modded_1.12_v1.0.0.zip"
 	},
 	{
 		"path": "\\config\\aether-dimension\\biomes.txt",
@@ -614,42 +654,6 @@
 	{
 		"path": "\\config\\Guide-API\\Guide-API.cfg",
 		"url": "${repo_url}\\config\\Guide-API\\Guide-API.cfg"
-	},
-	{
-		"path": "\\config\\immersiverailroading\\BowmakerFoxsPeckettW4.zip",
-		"url": "https://media.forgecdn.net/files/3537/84/BowmakerFoxsPeckettW4.zip"
-	},
-	{
-		"path": "\\config\\immersiverailroading\\Brums_Dutch_pack.zip",
-		"url": "https://media.forgecdn.net/files/3579/460/Brums_Dutch_pack.zip"
-	},
-	{
-		"path": "\\config\\immersiverailroading\\Cole's+Rebuilt+Royal+Scot.zip",
-		"url": "https://media.forgecdn.net/files/3576/503/Cole%27s+Rebuilt+Royal+Scot.zip"
-	},
-	{
-		"path": "\\config\\immersiverailroading\\Dragons_British_Freight.zip",
-		"url": "https://media.forgecdn.net/files/3579/37/Dragons_British_Freight.zip"
-	},
-	{
-		"path": "\\config\\immersiverailroading\\GER+Extravaganza+Beta.zip",
-		"url": "https://media.forgecdn.net/files/3583/225/GER+Extravaganza+Beta.zip"
-	},
-	{
-		"path": "\\config\\immersiverailroading\\International+Narrow+Gauge+2ft+Pack.zip",
-		"url": "https://media.forgecdn.net/files/2705/391/International+Narrow+Gauge+2ft+Pack.zip"
-	},
-	{
-		"path": "\\config\\immersiverailroading\\Kit-Bash!+3.0+(KIT-MAS+YEAR+1+RELEASE).zip",
-		"url": "https://media.forgecdn.net/files/3579/623/Kit-Bash!+3.0+(KIT-MAS+YEAR+1+RELEASE).zip"
-	},
-	{
-		"path": "\\config\\immersiverailroading\\material_transport.zip",
-		"url": "https://cdn.discordapp.com/attachments/416318597875367956/564095218404818945/material_transport.zip"
-	},
-	{
-		"path": "\\config\\immersiverailroading\\SlateWagon.zip",
-		"url": "https://cdn.discordapp.com/attachments/416318597875367956/710600373357772860/SlateWagon.zip"
 	},
 	{
 		"path": "\\config\\jei\\itemBlacklist.cfg",
