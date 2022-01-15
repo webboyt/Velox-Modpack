@@ -1,6 +1,6 @@
 {
     "name": "Velox Modpack",
-    "version": "19",
+    "version": "21",
     "server_ip": null,
     "minecraft_version": "1.12.2",
     "forge_version": "14.23.5.2860",
@@ -560,6 +560,10 @@
         {
             "path": "\\mods\\ModularPowersuits-1.12.2-1.0.46.jar",
             "url": "https://media.forgecdn.net/files/2743/885/ModularPowersuits-1.12.2-1.0.46.jar"
+        },
+        {
+            "path": "\\mods\\grapplemod-1.12.2-v12.2.jar",
+            "url": "https://media.forgecdn.net/files/3564/282/grapplemod-1.12.2-v12.2.jar"
         }
     ]
 }
