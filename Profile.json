@@ -1,6 +1,6 @@
 {
     "name": "Velox Modpack",
-    "version": "21",
+    "version": "22",
     "server_ip": null,
     "minecraft_version": "1.12.2",
     "forge_version": "14.23.5.2860",
@@ -162,10 +162,6 @@
             "url": "https://media.forgecdn.net/files/2713/386/Mantle-1.12-1.3.3.55.jar"
         },
         {
-            "path": "\\mods\\AppleSkin-mc1.12-1.0.14.jar.disabled",
-            "url": "https://media.forgecdn.net/files/2987/247/AppleSkin-mc1.12-1.0.14.jar"
-        },
-        {
             "path": "\\mods\\NaturesCompass-1.12.2-1.8.5.jar",
             "url": "https://media.forgecdn.net/files/2893/527/NaturesCompass-1.12.2-1.8.5.jar"
         },
@@ -302,10 +298,6 @@
             "url": "https://media.forgecdn.net/files/2745/321/industrialforegoing-1.12.2-1.12.13-237.jar"
         },
         {
-            "path": "\\mods\\mystcraft-1.12.2-0.13.7.06.jar.disabled",
-            "url": "https://media.forgecdn.net/files/2958/490/mystcraft-1.12.2-0.13.7.06.jar"
-        },
-        {
             "path": "\\mods\\OpenBlocks-1.12.2-1.8.1.jar",
             "url": "https://media.forgecdn.net/files/2699/56/OpenBlocks-1.12.2-1.8.1.jar"
         },
@@ -406,10 +398,6 @@
             "url": "https://media.forgecdn.net/files/2933/382/betteranimalsplus-1.12.2-9.0.1.jar"
         },
         {
-            "path": "\\mods\\Chocolate_Quest_Repoured-1.12.2-2.6.2B.jar",
-            "url": "https://media.forgecdn.net/files/3541/819/Chocolate_Quest_Repoured-1.12.2-2.6.2B.jar"
-        },
-        {
             "path": "\\mods\\CTM-MC1.12.2-1.0.2.31.jar",
             "url": "https://media.forgecdn.net/files/2915/363/CTM-MC1.12.2-1.0.2.31.jar"
         },
@@ -478,10 +466,6 @@
             "url": "https://media.forgecdn.net/files/2958/103/techguns-1.12.2-2.0.2.0_pre3.2.jar"
         },
         {
-            "path": "\\mods\\tektopia-1.1.0.jar",
-            "url": "https://media.forgecdn.net/files/2763/46/tektopia-1.1.0.jar"
-        },
-        {
             "path": "\\mods\\Toast+Control-1.12.2-1.8.1.jar",
             "url": "https://media.forgecdn.net/files/2707/353/Toast+Control-1.12.2-1.8.1.jar"
         },
@@ -530,10 +514,6 @@
             "url": "https://media.forgecdn.net/files/2483/393/BetterFps-1.4.8.jar"
         },
         {
-            "path": "\\mods\\minecolonies-1.12.2-0.11.811-BETA-universal.jar",
-            "url": "https://media.forgecdn.net/files/2921/659/minecolonies-1.12.2-0.11.811-BETA-universal.jar"
-        },
-        {
             "path": "\\mods\\Quark-r1.6-179.jar",
             "url": "https://media.forgecdn.net/files/2924/91/Quark-r1.6-179.jar"
         },
@@ -544,10 +524,6 @@
         {
             "path": "\\mods\\AutoRegLib-1.3-32.jar",
             "url": "https://media.forgecdn.net/files/2746/11/AutoRegLib-1.3-32.jar"
-        },
-        {
-            "path": "\\mods\\FutureVersions+v1.3.1.jar",
-            "url": "https://media.forgecdn.net/files/3091/17/FutureVersions+v1.3.1.jar"
         },
         {
             "path": "\\mods\\MFFS-1.12.2-4.0.1.0_1.12_cc3a5aa.jar",
@@ -564,6 +540,54 @@
         {
             "path": "\\mods\\grapplemod-1.12.2-v12.2.jar",
             "url": "https://media.forgecdn.net/files/3564/282/grapplemod-1.12.2-v12.2.jar"
+        },
+        {
+            "path": "\\mods\\NetherPortalFix_1.12.1-5.3.17.jar",
+            "url": "https://media.forgecdn.net/files/2612/52/NetherPortalFix_1.12.1-5.3.17.jar"
+        },
+        {
+            "path": "\\mods\\buildcraft-all-7.99.24.8.jar",
+            "url": "https://media.forgecdn.net/files/3204/475/buildcraft-all-7.99.24.8.jar"
+        },
+        {
+            "path": "\\mods\\unloader-1.2.0.jar",
+            "url": "https://media.forgecdn.net/files/2572/528/unloader-1.2.0.jar"
+        },
+        {
+            "path": "\\mods\\Wawla-1.12.2-2.6.275.jar",
+            "url": "https://media.forgecdn.net/files/2916/368/Wawla-1.12.2-2.6.275.jar"
+        },
+        {
+            "path": "\\mods\\thuttech-1.12.2-6.1.6.jar",
+            "url": "https://media.forgecdn.net/files/2712/805/thuttech-1.12.2-6.1.6.jar"
+        },
+        {
+            "path": "\\mods\\thutcore-1.12.2-5.21.0.jar",
+            "url": "https://media.forgecdn.net/files/2713/584/thutcore-1.12.2-5.21.0.jar"
+        },
+        {
+            "path": "\\mods\\missing_texture_mod_1.12.2_v1.0.0.jar",
+            "url": "https://cdn.discordapp.com/attachments/923702199694000178/939176676494041108/missing_texture_mod_1.12.2_v1.0.0.jar"
+        },
+        {
+            "path": "\\mods\\simpsons_discs_1.12.2_v1.1.0.jar",
+            "url": "https://cdn.discordapp.com/attachments/923702199694000178/939200035751616542/simpsons_discs_1.12.2_v1.1.0.jar"
+        },
+        {
+            "path": "\\mods\\railstuff-0.2.5.jar",
+            "url": "https://media.forgecdn.net/files/3137/850/railstuff-0.2.5.jar"
+        },
+        {
+            "path": "\\mods\\RedstoneArsenal-1.12.2-2.6.6.1-universal.jar",
+            "url": "https://media.forgecdn.net/files/2939/416/RedstoneArsenal-1.12.2-2.6.6.1-universal.jar"
+        },
+        {
+            "path": "\\mods\\logisticspipes-0.10.3.114.jar",
+            "url": "https://media.forgecdn.net/files/3298/772/logisticspipes-0.10.3.114.jar"
+        },
+        {
+            "path": "\\mods\\NotEnoughItems-1.12.2-2.4.3.245-universal.jar",
+            "url": "https://media.forgecdn.net/files/2755/792/NotEnoughItems-1.12.2-2.4.3.245-universal.jar"
         }
     ]
 }
