@@ -592,6 +592,10 @@
         {
             "path": "\\mods\\CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar",
             "url": "https://media.forgecdn.net/files/2661/859/CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar"
+        },
+        {
+            "path": "Hwyla-1.8.26-B41_1.12.2.jar",
+            "url": "https://media.forgecdn.net/files/2568/751/Hwyla-1.8.26-B41_1.12.2.jar"
         }
     ]
 }
