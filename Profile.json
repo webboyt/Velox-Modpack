@@ -1,6 +1,6 @@
 {
     "name": "Velox Modpack",
-    "version": "23",
+    "version": "24",
     "server_ip": null,
     "minecraft_version": "1.12.2",
     "forge_version": "14.23.5.2860",
@@ -594,8 +594,12 @@
             "url": "https://media.forgecdn.net/files/2661/859/CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar"
         },
         {
-            "path": "Hwyla-1.8.26-B41_1.12.2.jar",
+            "path": "\\mods\\Hwyla-1.8.26-B41_1.12.2.jar",
             "url": "https://media.forgecdn.net/files/2568/751/Hwyla-1.8.26-B41_1.12.2.jar"
+        },
+        {
+            "path":"\\mods\\randompatches-1.12.2-1.22.1.10.jar",
+            "url": "https://media.forgecdn.net/files/3133/651/randompatches-1.12.2-1.22.1.10.jar"
         }
     ]
 }
